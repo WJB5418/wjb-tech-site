@@ -1,0 +1,166 @@
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-widgets.css?ver=1.7.11 -> assets/css/xpro-widgets.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-responsive.css?ver=1.7.11 -> assets/css/xpro-responsive.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.15.3 -> assets/css/all.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.28.0 -> assets/css/widget-social-icons.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-icons.min.css?ver=1.0.0 -> assets/css/xpro-icons.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-theme-builder/assets/css/xpro-theme-builder.css?ver=1.2.16 -> assets/css/xpro-theme-builder.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.5 -> assets/css/frontend.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-5.css?ver=1792643630 -> assets/css/post-5.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/inc/controls/assets/css/widgetarea-editor.css?ver=1.7.11 -> assets/css/widgetarea-editor.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.5 -> assets/css/widget-heading.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.5 -> assets/css/widget-image.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.3.5 -> assets/css/widget-icon-box.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.5 -> assets/css/widget-icon-list.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-19.css?ver=1792643684 -> assets/css/post-19.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/base-desktop.css?ver=6ad9922edc849 -> assets/css/base-desktop.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/base-mobile.css?ver=6ad9922edc849 -> assets/css/base-mobile.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-29.css?ver=1792643631 -> assets/css/post-29.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-30.css?ver=1792643631 -> assets/css/post-30.css
+[asset] text/css http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1 -> assets/css/reset.css
+[asset] text/css http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1 -> assets/css/theme.css
+[asset] text/css http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1 -> assets/css/header-footer.css
+[asset] application/javascript http://127.0.0.1:8080/wp-includes/js/jquery/jquery.min.js?ver=3.7.1 -> assets/js/jquery.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 -> assets/js/jquery-migrate.min.js
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/hero-earth.jpg -> assets/img/hero-earth.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/about-team.jpg -> assets/img/about-team.jpg
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/js/xpro-widgets.js?ver=1.7.11 -> assets/js/xpro-widgets.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/sweetalert2.all.min.js?ver=3.0.6 -> assets/js/sweetalert2.all.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-theme-builder/assets/js/xpro-theme-builder.js?ver=1.2.16 -> assets/js/xpro-theme-builder.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.5 -> assets/js/webpack.runtime.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.5 -> assets/js/frontend-modules.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2 -> assets/js/core.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.5 -> assets/js/frontend.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1 -> assets/js/hello-frontend.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/anime.min.js?ver=3.0.1 -> assets/js/anime.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/modules/floating-effect/js/floating-effect.min.js?ver=1.7.11 -> assets/js/floating-effect.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/reveal-fx.js?ver=1.0.0 -> assets/js/reveal-fx.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/modules/reveal-effect/js/reveal-effect.js?ver=1.7.11 -> assets/js/reveal-effect.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/jquery.ripples.js?ver=1.0.0 -> assets/js/jquery.ripples.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/modules/ripples-effect/js/ripples-effect.js?ver=1.7.11 -> assets/js/ripples-effect.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/soundjs.min.js?ver=1.0.0 -> assets/js/soundjs.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/modules/sound-effect/js/sound-effect.js?ver=1.7.11 -> assets/js/sound-effect.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/inc/controls/assets/js/widgetarea-editor.js?ver=1.7.11 -> assets/js/widgetarea-editor.js
+[page] http://127.0.0.1:8080/ -> index.html (92757 chars)
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-widgets.css?ver=1.7.11 -> assets/css/d39f298a_xpro-widgets.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-responsive.css?ver=1.7.11 -> assets/css/494cb1a0_xpro-responsive.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.15.3 -> assets/css/107d3c13_all.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.28.0 -> assets/css/e8578848_widget-social-icons.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-icons.min.css?ver=1.0.0 -> assets/css/63cafc97_xpro-icons.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-theme-builder/assets/css/xpro-theme-builder.css?ver=1.2.16 -> assets/css/6f24312a_xpro-theme-builder.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.5 -> assets/css/b4945e59_frontend.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-5.css?ver=1792643630 -> assets/css/6b82c852_post-5.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/inc/controls/assets/css/widgetarea-editor.css?ver=1.7.11 -> assets/css/c5d9a6f5_widgetarea-editor.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.5 -> assets/css/960cac4a_widget-heading.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.5 -> assets/css/cec8982c_widget-image.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.3.5 -> assets/css/91a8dd04_widget-icon-box.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.5 -> assets/css/94346c5c_widget-icon-list.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-19.css?ver=1792643684 -> assets/css/befa2d20_post-19.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/base-desktop.css?ver=6ad9922edc849 -> assets/css/05459860_base-desktop.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/base-mobile.css?ver=6ad9922edc849 -> assets/css/8118143e_base-mobile.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-29.css?ver=1792643631 -> assets/css/b7048eab_post-29.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-30.css?ver=1792643631 -> assets/css/9b2b4f9f_post-30.css
+[asset] text/css http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1 -> assets/css/5976ff47_reset.css
+[asset] text/css http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1 -> assets/css/817e68ee_theme.css
+[asset] text/css http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1 -> assets/css/5e63e22b_header-footer.css
+[asset] application/javascript http://127.0.0.1:8080/wp-includes/js/jquery/jquery.min.js?ver=3.7.1 -> assets/js/1392673b_jquery.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 -> assets/js/0cb0bb24_jquery-migrate.min.js
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/hero-earth.jpg -> assets/img/e6644bfe_hero-earth.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/about-team.jpg -> assets/img/9a95ef93_about-team.jpg
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/js/xpro-widgets.js?ver=1.7.11 -> assets/js/25aed0ac_xpro-widgets.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/sweetalert2.all.min.js?ver=3.0.6 -> assets/js/611e5148_sweetalert2.all.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-theme-builder/assets/js/xpro-theme-builder.js?ver=1.2.16 -> assets/js/b3c145f2_xpro-theme-builder.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.5 -> assets/js/ae9adf03_webpack.runtime.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.5 -> assets/js/b18b1f15_frontend-modules.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2 -> assets/js/09a024be_core.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.5 -> assets/js/dcd53f71_frontend.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1 -> assets/js/9e79d2f9_hello-frontend.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/anime.min.js?ver=3.0.1 -> assets/js/2b4db1cf_anime.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/modules/floating-effect/js/floating-effect.min.js?ver=1.7.11 -> assets/js/ba6db452_floating-effect.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/reveal-fx.js?ver=1.0.0 -> assets/js/a09f7872_reveal-fx.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/modules/reveal-effect/js/reveal-effect.js?ver=1.7.11 -> assets/js/24c69ca9_reveal-effect.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/jquery.ripples.js?ver=1.0.0 -> assets/js/7acec1dd_jquery.ripples.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/modules/ripples-effect/js/ripples-effect.js?ver=1.7.11 -> assets/js/8559a034_ripples-effect.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/soundjs.min.js?ver=1.0.0 -> assets/js/b6b5976b_soundjs.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/modules/sound-effect/js/sound-effect.js?ver=1.7.11 -> assets/js/5471d2a1_sound-effect.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/xpro-elementor-addons/inc/controls/assets/js/widgetarea-editor.js?ver=1.7.11 -> assets/js/2b1c77ad_widgetarea-editor.js
+[page] http://127.0.0.1:8080/index.php/ -> index.html (93135 chars)
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-20.css?ver=1792643973 -> assets/css/post-20.css
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/about-desk.jpg -> assets/img/about-desk.jpg
+[page] http://127.0.0.1:8080/index.php/about-us/ -> about-us.html (85326 chars)
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/elementor/assets/css/widget-accordion.min.css?ver=4.3.5 -> assets/css/widget-accordion.min.css
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-21.css?ver=1792643996 -> assets/css/post-21.css
+[page] http://127.0.0.1:8080/index.php/services/ -> services.html (96453 chars)
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-22.css?ver=1792644000 -> assets/css/post-22.css
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/vr-h1.jpg -> assets/img/vr-h1.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/work-industry.jpg -> assets/img/work-industry.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/work-esports.jpg -> assets/img/work-esports.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/work-chip.jpg -> assets/img/work-chip.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/sv-web.jpg -> assets/img/sv-web.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/sv-app.jpg -> assets/img/sv-app.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/vr-h2.jpg -> assets/img/vr-h2.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/sv-game.jpg -> assets/img/sv-game.jpg
+[asset] image/jpeg http://127.0.0.1:8080/wp-content/uploads/2026/10/sv-twin.jpg -> assets/img/sv-twin.jpg
+[page] http://127.0.0.1:8080/index.php/portfolio/ -> portfolio.html (78835 chars)
+[asset] text/css http://127.0.0.1:8080/wp-content/uploads/elementor/css/post-23.css?ver=1792643630 -> assets/css/post-23.css
+[asset] text/css http://127.0.0.1:8080/wp-content/plugins/wpforms-lite/assets/css/frontend/modern/wpforms-full.min.css?ver=2.0.2.2 -> assets/css/wpforms-full.min.css
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.21.0 -> assets/js/jquery.validate.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2 -> assets/js/mailcheck.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0 -> assets/js/punycode.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=2.0.2.2 -> assets/js/utils.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js?ver=2.0.2.2 -> assets/js/wpforms.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms-modern.min.js?ver=2.0.2.2 -> assets/js/wpforms-modern.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/wpforms-lite/assets/js/frontend/analytics.min.js?ver=2.0.2.2 -> assets/js/analytics.min.js
+[asset] application/javascript http://127.0.0.1:8080/wp-content/plugins/wpforms-lite/assets/js/frontend/fields/address.min.js?ver=2.0.2.2 -> assets/js/address.min.js
+[page] http://127.0.0.1:8080/index.php/contact-us/ -> contact-us.html (76942 chars)
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.eot -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.eot#iefix -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.woff2 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.woff -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.ttf -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.svg#fontawesome -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.eot -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.eot#iefix -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.woff2 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.woff -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.ttf -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.svg#fontawesome -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.eot -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.eot#iefix -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.woff2 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.woff -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.ttf -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.svg#fontawesome -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.eot?d5ys91 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.eot?d5ys91#iefix -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.ttf?d5ys91 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.woff?d5ys91 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.svg?d5ys91#xpro-icons -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.eot -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.eot#iefix -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.woff2 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.woff -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.ttf -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-brands-400.svg#fontawesome -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.eot -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.eot#iefix -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.woff2 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.woff -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.ttf -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-regular-400.svg#fontawesome -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.eot -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.eot#iefix -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.woff2 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.woff -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.ttf -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/webfonts/fa-solid-900.svg#fontawesome -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/images/spinner.gif -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/images/team-shape-2.png -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/images/team-shape-2.png -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.eot?d5ys91 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.eot?d5ys91#iefix -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.ttf?d5ys91 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.woff?d5ys91 -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/fonts/xpro-icons.svg?d5ys91#xpro-icons -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/images/spinner.gif -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/images/team-shape-2.png -> HTTP Error 404: Not Found
+[asset-FAIL] http://127.0.0.1:8080/wp-content/themes/hello-elementor/assets/images/team-shape-2.png -> HTTP Error 404: Not Found
