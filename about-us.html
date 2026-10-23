@@ -22,19 +22,9 @@
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
 
-/* ===== 导航栏增强：悬浮胶囊吸顶 + 点击特效 ===== */
-.xpro-theme-builder-header{padding-top:14px;}
-.wjb-header{max-width:1240px;margin:0 auto;border-radius:18px!important;box-shadow:0 10px 34px rgba(20,40,70,.10)!important;background:rgba(255,255,255,.96)!important;padding:8px 20px;border-bottom:1px solid var(--line)!important;transition:box-shadow .3s ease;}
-.wjb-logo .elementor-heading-title{font-size:24px!important;}
-.wjb-nav .xpro-horizontal-menu ul li a,.wjb-nav .elementor-nav-menu li a{color:var(--text)!important;font-size:17px!important;font-weight:600!important;padding:10px 18px!important;position:relative!important;overflow:hidden;transition:color .25s ease,transform .2s ease!important;}
-.wjb-nav .xpro-horizontal-menu ul li a:hover,.wjb-nav .elementor-nav-menu li a:hover{color:var(--accent)!important;transform:translateY(-1px);}
-.wjb-nav .xpro-horizontal-menu ul li a::after,.wjb-nav .elementor-nav-menu li a::after{content:"";position:absolute;left:50%;bottom:7px;width:0;height:2.5px;background:var(--accent);border-radius:3px;transform:translateX(-50%);transition:width .3s ease;}
-.wjb-nav .xpro-horizontal-menu ul li a:hover::after,.wjb-nav .elementor-nav-menu li a:hover::after{width:56%;}
-.wjb-nav .xpro-horizontal-menu ul li.current-menu-item a,.wjb-nav .elementor-nav-menu li.current-menu-item a{color:var(--accent)!important;font-weight:700!important;}
-.wjb-nav .xpro-horizontal-menu ul li.current-menu-item a::after,.wjb-nav .elementor-nav-menu li.current-menu-item a::after{width:56%;}
-.wjb-ripple{position:absolute;border-radius:50%;background:rgba(11,191,142,.20);transform:scale(0);animation:wjb-ripple .55s ease-out forwards;pointer-events:none;z-index:2;}
-@keyframes wjb-ripple{to{transform:scale(1);opacity:0;}}
-.wjb-header.wjb-scrolled{box-shadow:0 14px 44px rgba(20,40,70,.16)!important;}
+
+
+
 
 </style>
 <link rel='stylesheet' id='xpro-elementor-addons-widgets-css' href='assets/css/d39f298a_xpro-widgets.css' media='all' />
@@ -322,6 +312,35 @@ body{background:var(--bg);color:var(--text);font-family:var(--f2);}
 .wjb-copy .elementor-text-editor{font-size:12.5px!important;color:var(--muted)!important;letter-spacing:.03em;}
 
 
+
+
+/* ===== 导航栏增强 v2：醒目全宽吸顶 + 点击特效 ===== */
+.xpro-theme-builder-header{padding-top:0;}
+.wjb-header{max-width:100%;margin:0;border-radius:0 0 18px 18px;box-shadow:0 8px 30px rgba(20,40,70,.14)!important;background:#fff!important;padding:12px 26px;border-bottom:none!important;transition:box-shadow .3s ease;}
+.wjb-logo .elementor-heading-title{font-size:26px!important;}
+.wjb-nav .xpro-horizontal-menu ul li a,.wjb-nav .elementor-nav-menu li a{color:var(--text)!important;font-size:18px!important;font-weight:700!important;padding:12px 22px!important;position:relative!important;overflow:hidden;transition:color .25s ease,transform .2s ease!important;}
+.wjb-nav .xpro-horizontal-menu ul li a:hover,.wjb-nav .elementor-nav-menu li a:hover{color:var(--accent)!important;transform:translateY(-1px);}
+.wjb-nav .xpro-horizontal-menu ul li a::after,.wjb-nav .elementor-nav-menu li a::after{content:"";position:absolute;left:50%;bottom:7px;width:0;height:3px;background:var(--accent);border-radius:3px;transform:translateX(-50%);transition:width .3s ease;}
+.wjb-nav .xpro-horizontal-menu ul li a:hover::after,.wjb-nav .elementor-nav-menu li a:hover::after{width:56%;}
+.wjb-nav .xpro-horizontal-menu ul li.current-menu-item a,.wjb-nav .elementor-nav-menu li.current-menu-item a{color:var(--accent)!important;font-weight:800!important;}
+.wjb-nav .xpro-horizontal-menu ul li.current-menu-item a::after,.wjb-nav .elementor-nav-menu li.current-menu-item a::after{width:56%;}
+.wjb-ripple{position:absolute;border-radius:50%;background:rgba(11,191,142,.20);transform:scale(0);animation:wjb-ripple .55s ease-out forwards;pointer-events:none;z-index:2;}
+@keyframes wjb-ripple{to{transform:scale(1);opacity:0;}}
+.wjb-header.wjb-scrolled{box-shadow:0 14px 44px rgba(20,40,70,.16)!important;}
+
+/* ===== 关于页首屏压缩：标题与图片一屏可见 ===== */
+.wjb-hero{padding:22px 16px 6px!important;}
+.wjb-h1 .elementor-heading-title{font-size:34px!important;}
+.wjb-lead{font-size:14.5px!important;margin-bottom:4px!important;}
+.wjb-img img{border-radius:14px;box-shadow:0 10px 30px rgba(20,40,70,.10);}
+.wjb-sec{padding:20px 16px 48px!important;}
+@media (max-width:767px){.wjb-hero{padding:8px 16px 2px!important;} .wjb-h1 .elementor-heading-title{font-size:26px!important;} .wjb-lead{font-size:13px!important;} .wjb-sec{padding:12px 16px 32px!important;}}
+
+
+.page-header{display:none!important;}
+@media (max-width:1024px){.wjb-nav .xpro-horizontal-menu ul li a,.wjb-nav .elementor-nav-menu li a{font-size:17px!important;font-weight:700!important;padding:10px 18px!important;}}
+@media (max-width:767px){.wjb-hero{padding:6px 16px 0!important;} .wjb-h1 .elementor-heading-title{font-size:22px!important;} .wjb-eyebrow .elementor-heading-title{font-size:11px!important;} .wjb-lead{font-size:12px!important;margin-bottom:0!important;} .wjb-sec{padding:10px 16px 32px!important;}}
+
 </style>
 </head>
 
@@ -395,17 +414,19 @@ body{background:var(--bg);color:var(--text);font-family:var(--f2);}
 				<div class="elementor-element elementor-element-d8e96cf37c wjb-h1 elementor-widget elementor-widget-heading" data-id="d8e96cf37c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 					<h1 class="elementor-heading-title elementor-size-default">一个工程师的坚持，<br>一支团队的交付</h1>				</div>
 				<div class="elementor-element elementor-element-b990c801f9 wjb-lead elementor-widget elementor-widget-text-editor" data-id="b990c801f9" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-									WJB的技术博客是一个小而专的技术工作室：专注虚拟现实、小游戏、工业数字孪生与网站开发，把行业语境写进每一次需求分析。								</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-2601a74626 e-con-boxed wjb-sec e-flex e-con e-child" data-id="2601a74626" data-element_type="container" data-e-type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-b858f9a3e2 wjb-img e-flex e-con-boxed e-con e-child" data-id="b858f9a3e2" data-element_type="container" data-e-type="container">
+									WJB的技术博客是一个小而专的技术工作室：专注虚拟现实、小游戏、工业数字孪生与网站开发，把行业语境写进每一次需求分析。			
+	<div class="elementor-element elementor-element-b858f9a3e2 wjb-img e-flex e-con-boxed e-con e-child" data-id="b858f9a3e2" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-1b429ad564 elementor-widget elementor-widget-image" data-id="1b429ad564" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 															<img fetchpriority="high" decoding="async" width="1600" height="1067" src="assets/img/about-desk.jpg" class="attachment-full size-full wp-image-6" alt="" sizes="(max-width: 1600px) 100vw, 1600px" />															</div>
 					</div>
 				</div>
+					</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2601a74626 e-con-boxed wjb-sec e-flex e-con e-child" data-id="2601a74626" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		
 		<div class="elementor-element elementor-element-b3bb1c863e e-flex e-con-boxed e-con e-child" data-id="b3bb1c863e" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-47cb2c083e wjb-eyebrow elementor-widget elementor-widget-heading" data-id="47cb2c083e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
