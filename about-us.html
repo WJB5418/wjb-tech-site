@@ -21,6 +21,21 @@
 <style id="wp-img-auto-sizes-contain-inline-css">
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+
+/* ===== 导航栏增强：悬浮胶囊吸顶 + 点击特效 ===== */
+.xpro-theme-builder-header{padding-top:14px;}
+.wjb-header{max-width:1240px;margin:0 auto;border-radius:18px!important;box-shadow:0 10px 34px rgba(20,40,70,.10)!important;background:rgba(255,255,255,.96)!important;padding:8px 20px;border-bottom:1px solid var(--line)!important;transition:box-shadow .3s ease;}
+.wjb-logo .elementor-heading-title{font-size:24px!important;}
+.wjb-nav .xpro-horizontal-menu ul li a,.wjb-nav .elementor-nav-menu li a{color:var(--text)!important;font-size:17px!important;font-weight:600!important;padding:10px 18px!important;position:relative!important;overflow:hidden;transition:color .25s ease,transform .2s ease!important;}
+.wjb-nav .xpro-horizontal-menu ul li a:hover,.wjb-nav .elementor-nav-menu li a:hover{color:var(--accent)!important;transform:translateY(-1px);}
+.wjb-nav .xpro-horizontal-menu ul li a::after,.wjb-nav .elementor-nav-menu li a::after{content:"";position:absolute;left:50%;bottom:7px;width:0;height:2.5px;background:var(--accent);border-radius:3px;transform:translateX(-50%);transition:width .3s ease;}
+.wjb-nav .xpro-horizontal-menu ul li a:hover::after,.wjb-nav .elementor-nav-menu li a:hover::after{width:56%;}
+.wjb-nav .xpro-horizontal-menu ul li.current-menu-item a,.wjb-nav .elementor-nav-menu li.current-menu-item a{color:var(--accent)!important;font-weight:700!important;}
+.wjb-nav .xpro-horizontal-menu ul li.current-menu-item a::after,.wjb-nav .elementor-nav-menu li.current-menu-item a::after{width:56%;}
+.wjb-ripple{position:absolute;border-radius:50%;background:rgba(11,191,142,.20);transform:scale(0);animation:wjb-ripple .55s ease-out forwards;pointer-events:none;z-index:2;}
+@keyframes wjb-ripple{to{transform:scale(1);opacity:0;}}
+.wjb-header.wjb-scrolled{box-shadow:0 14px 44px rgba(20,40,70,.16)!important;}
+
 </style>
 <link rel='stylesheet' id='xpro-elementor-addons-widgets-css' href='assets/css/d39f298a_xpro-widgets.css' media='all' />
 <link rel='stylesheet' id='xpro-elementor-addons-responsive-css' href='assets/css/494cb1a0_xpro-responsive.css' media='all' />
@@ -914,6 +929,37 @@ var XproWidgetAreaEditorParams = {"rest_api_url":"http://127.0.0.1:8080/index.ph
 /*! This file is auto-generated */
 var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
 //# sourceURL=http://127.0.0.1:8080/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+<script>
+(function(){
+  var navLinks = document.querySelectorAll('.wjb-nav a');
+  navLinks.forEach(function(a){
+    a.addEventListener('click', function(e){
+      var r = document.createElement('span');
+      r.className = 'wjb-ripple';
+      a.appendChild(r);
+      var rect = a.getBoundingClientRect();
+      var size = Math.max(rect.width, rect.height) * 1.4;
+      r.style.width = size + 'px';
+      r.style.height = size + 'px';
+      var x = (e.clientX - rect.left) - size / 2;
+      var y = (e.clientY - rect.top) - size / 2;
+      r.style.left = x + 'px';
+      r.style.top = y + 'px';
+      setTimeout(function(){ r.remove(); }, 600);
+    });
+  });
+  var hdr = document.querySelector('.wjb-header');
+  if (hdr) {
+    var onScroll = function(){
+      if (window.scrollY > 12) { hdr.classList.add('wjb-scrolled'); }
+      else { hdr.classList.remove('wjb-scrolled'); }
+    };
+    window.addEventListener('scroll', onScroll, {passive:true});
+    onScroll();
+  }
+})();
 </script>
 </body>
 
